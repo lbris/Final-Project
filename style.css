@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+}
+body{
+	font-family: Cambria;
+	font-size: 18px;
+	color: white;
+	background-color: #12345a;
+	line-height: 35px;
+}
+table{
+	border: 1px solid white;
+}
+#header{
+	text-align: center;
+	background-color: #12345a;
+	border-top: solid white 1px;
+	font-size: 24px;
+}
+#headtop{
+	border-bottom: solid 2px white;
+	font-family: Gabriola;
+}
+#headbot{
+	border-bottom: solid 2px white;
+	border-top: solid white 2px;
+	line-height: 35px;
+}
+#maincontent{
+	margin-right: 35%;
+	margin-left: 5%;
+	margin-top: 2.5%;
+}
+#content{
+	margin-top: 2.5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#facilitycontent{
+	margin-top: 2.5%;
+	margin-left: 5%;
+	margin-right: 35%;
+}
+#sidebar{
+	padding-top: 2.5%;
+	float: right;
+	background-color: black;
+	text-align: center;
+	width: 30%;
+}
+#sidebar2{
+	margin-top: 2.5%;
+	padding-top: 2.5%;
+	float: right;
+	background-color: black;
+	text-align: center;
+	width: 30%;
+}
+#footer{
+	background-color: black;
+	text-align: center;
+	height: 15%;
+	margin-top: 5%;
+	font-family: Gabriola;
+	font-size: 24px;
+	border-top: solid white 2px;
+}
+#facilities{
+	font-family: Gabriola;
+	font-size: 24px;
+}
+
+a:link {
+	color: white;
+	text-decoration: underline;
+}
+a:visited {
+	color: white;
+	text-decoration: underline;
+}
+a:hover{
+	font-weight:bold;
+	text-decoration:underline;
+}
